@@ -28,3 +28,8 @@ Q               Should quit the program.
 Below is a sample run of the program. User input is prefixed with enter command:
 
 ![Command description visualized](https://github.com/timgrob/CS_codingChallenge/blob/master/commandDescirption.png)
+
+
+## Usage
+
+Clone the repository and and run the main.py file from your terminal. The solution is written in plain python, so no additional packages are needed to be downloaded. 
