@@ -27,3 +27,4 @@ Q               Should quit the program.
 
 Below is a sample run of the program. User input is prefixed with enter command:
 
+![Command description visualized](https://github.com/timgrob/CS_codingChallenge/blob/master/commandDescirption.png)
