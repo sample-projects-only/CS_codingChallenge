@@ -1,10 +1,7 @@
 # CS_codingChallenge
 Coding challenge for Credit Suisse HK. 
 
-
-*** The Problem ***
-
-__Description__
+## Problem Descirption
 
 You're given the task of writing a simple console version of a drawing program. 
 At this time, the functionality of the program is quire limited but this might change in the future. 
@@ -12,7 +9,6 @@ In a nutshell, the program should work as follows:
  1. Create a new canvas
  2. Start drawing on the canvas by issuing various commands
  3. Quit
-
 
 Command 		Description
 C w h           Should create a new canvas of width w and height h.
@@ -27,7 +23,7 @@ B x y c         Should fill the entire area connected to (x,y) with "colour" c. 
                 programs.
 Q               Should quit the program.
 
-__Sample I/O__
+## Sample I/O
 
 Below is a sample run of the program. User input is prefixed with enter command:
 
